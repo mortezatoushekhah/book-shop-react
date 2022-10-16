@@ -1,5 +1,5 @@
 This Book Shop app was built with React.
-the technologies used in this app are: react router dom, axios(api), json server.
+the technologies used in this app: react router dom, axios(api), json server.
 json server is a backend api simulation in npm.
 Check live demo here: https://bookshopreact.netlify.app
 
