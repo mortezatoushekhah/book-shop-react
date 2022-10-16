@@ -1,0 +1,21 @@
+.navbar {
+  background: #6c5ce7;
+  height: 4.5rem;
+}
+
+.navbar header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.nav-link {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 1rem;
+}
+
+.nav-link a, .logo a {
+  color: snow;
+}
